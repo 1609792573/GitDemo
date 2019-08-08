@@ -3,6 +3,7 @@
   <groupId>GitDemo</groupId>
   <artifactId>GitDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
   <build>
     <plugins>
       <plugin>
@@ -25,4 +26,5 @@
 	    <scope>test</scope>
 	</dependency>
   </dependencies>
+
 </project>
